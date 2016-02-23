@@ -1,0 +1,28 @@
+{
+  "name": "node-zenity",
+  "version": "1.0.0",
+  "description": "Show dialogs with Zenity using Node",
+  "main": "zenity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zyrorl/node-zenity.git"
+  },
+  "keywords": [
+    "zenity",
+    "dialogs"
+  ],
+  "author": "Abilio Henrique",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zyrorl/node-zenity/issues"
+  },
+  "homepage": "https://github.com/zyrorl/node-zenity#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "debug": "^2.2.0",
+    "mocha": "^2.4.5"
+  }
+}
